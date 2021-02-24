@@ -1,0 +1,147 @@
+body{
+    background-color: black;    
+    
+  
+}
+.h1{
+    color:whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    display: flex;
+    margin: auto;
+    width: 50%;
+    height: 10px;
+    margin-bottom: 5%;
+    margin-top: 5%;
+}
+.h1:hover{
+    font-family:arial;
+    color:grey;
+}
+.h2{
+    color: whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    margin:auto;
+    width: 50%;
+    margin-top: auto;
+    
+}
+
+.section{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 17px;
+    margin: auto;
+    margin-top:2%;
+    margin-bottom: 3%;
+    display:flex;
+    justify-content: center;
+    width:50%;
+    color:whitesmoke;
+    background-color:darkred;
+    width:50%;
+    height: 20%;
+}
+
+
+
+/*PLAYER*/
+audio{
+    display:flex;
+    margin:auto;
+    margin-top: 15px;
+    margin-left:340px;
+    background: whitesmoke;
+    border-radius:6px;
+}
+
+
+.player1-title{
+    color:whitesmoke;
+    display:flex;
+    margin:auto;
+    margin-left:335px;
+    margin-top:15px;
+    font-family: Arial, Helvetica, sans-serif;
+    width:15%;
+}
+.player2-title{
+    color:whitesmoke;
+    display:flex;
+    margin:auto;
+    margin-left:335px;
+    margin-top:15px;
+    font-family: Arial, Helvetica, sans-serif;
+    width:15%;
+}
+.player3-title{
+    color:whitesmoke;
+    display:flex;
+    margin:auto;
+    margin-left:335px;
+    margin-top:15px;
+    font-family: Arial, Helvetica, sans-serif;
+    width:15%;
+}
+.player4-title{
+    color:whitesmoke;
+    display:flex;
+    margin:auto;
+    margin-left:335px;
+    margin-top:15px;
+    font-family: Arial, Helvetica, sans-serif;
+    width:15%;
+}
+.player5-title{
+    color:whitesmoke;
+    display:flex;
+    margin:auto;
+    margin-left:335px;
+    margin-top:15px;
+    font-family: Arial, Helvetica, sans-serif;
+    width:15%;
+}
+.player6-title{
+    color:whitesmoke;
+    display:flex;
+    margin:auto;
+    margin-left:335px;
+    margin-top:15px;
+    font-family: Arial, Helvetica, sans-serif;
+    width:15%;
+}
+
+section{
+    display: flex;
+    margin:auto;
+    width: 50%;
+    margin-top: auto;
+    color:whitesmoke;
+}
+
+.questions-title{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top:150px;
+    font-size:20px;
+    display: flex;
+    margin:auto;
+    width: 50%;
+    margin-top: 50px;
+    margin-bottom:15px;
+    color:whitesmoke;
+    background-color:darkblue;
+    display: flex;
+    justify-content: space-around;
+}
+
+a{
+    color: whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    margin-top:2px;
+    font-size: 17px;
+}
+a:hover{
+    color:darkgrey;
+    text-decoration: underline;
+}
